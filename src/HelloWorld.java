@@ -1,0 +1,1 @@
+C:\HashiCorp\Vagrant\bin;C:\Program Files\Java\jdk1.7.0_79;C:\Program Files (x86)\Subversion\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\PuTTY\;C:\Program Files\Java\jdk1.7.0_79;C:\Program Files\Java\jdk1.7.0_79\bin;D:\Maven_practice\apache-maven-3.3.9\bin;C:\ANT Installation\apache-ant-1.9.7-bin\apache-ant-1.9.7\bin

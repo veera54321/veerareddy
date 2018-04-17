@@ -1,0 +1,5 @@
+<project name="build" default="a">
+<target name="a">
+<delet dir="D:/ANT Installation/devops"/>
+</target>
+</project>
